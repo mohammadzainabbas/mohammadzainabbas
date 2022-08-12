@@ -41,6 +41,13 @@ jobs:
       - name: Show status (for debugging purpose)
         run: git status
 
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: dev
+          force: true
+
       - name: Push changes to "output" branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
