@@ -1,7 +1,6 @@
 ### Hi there 👋🏻
 
----
-
+<hr style="height=.0125em" />
 
 <p align="center">
     <picture>
