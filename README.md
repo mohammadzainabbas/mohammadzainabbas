@@ -1,6 +1,9 @@
 ### Hi there 👋🏻
 
-<hr style="height=0.0125em; margin=0.5em 0em;" />
+<hr style="
+    height: 0.0125em;
+    margin: 0.5em 0em;
+">
 
 <p align="center">
     <picture>
