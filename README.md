@@ -1,7 +1,5 @@
 ### Hi there 👋🏻
-
 # 
-
 <p align="center">
     <picture>
         <source 
@@ -13,6 +11,13 @@
             alt="GitHub - Profile summary card"
         >
     </picture>
+</p>
+
+#
+
+<p align="center">
+  <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
+  <!-- <img src="https://github.com/mohammadzainabbas/mohammadzainabbas/blob/output/github-contribution-grid-snake.svg"/> -->
 </p>
 
 <!--
